@@ -17,6 +17,17 @@
 2. **精准上下文检索**: 基于 ChromaDB 的元数据增强检索，精准定位函数定义。
 3. **完全本地化闭环**: 从解析到向量存储完全本地运行，保护代码隐私（仅生成阶段调用 LLM API）。
 
+## 技术指标 (Benchmark)
+针对 `requests` 库全量代码的对比测试结果如下：
+
+| 技术指标 | LangChain (Baseline 800) | PyAST-RAG (本项目) |
+| :--- | :--- | :--- |
+| **语法错误率 (Invalid Python)** | 57.47% | **0.00%** |
+| **函数体切断率 (Fragmentation)** | 51.60% | **0.00%** |
+| **平均元数据字段数** | 1 (仅文本) | **5.7 (结构化)** |
+
+> *注：Baseline 使用 `RecursiveCharacterTextSplitter.from_language(Language.PYTHON)`，chunk_size=800。*
+
 ## 核心架构
 ```mermaid
 graph TD
