@@ -1,3 +1,7 @@
+"""
+Unit tests for the AST parser module.
+"""
+
 import pytest
 from src.parser import ASTParser
 

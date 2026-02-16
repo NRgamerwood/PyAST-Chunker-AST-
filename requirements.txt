@@ -1,2 +1,3 @@
 pydantic>=2.0.0
 pytest
+chromadb>=0.4.0
