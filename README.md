@@ -20,12 +20,12 @@
 ## 核心架构
 ```mermaid
 graph TD
-    A[源代码文件 (.py)] --> B(AST 解析器 / Parser)
-    B --> C{语义切分策略}
-    C -->|FunctionDef| D[代码块 / Chunk]
-    C -->|ClassDef| D[代码块 / Chunk]
-    D --> E[向量数据库 / ChromaDB]
-    D --> F[增强元数据: 依赖关系/父节点]
+    A["源代码文件 (.py)"] --> B("AST 解析器 / Parser")
+    B --> C{"语义切分策略"}
+    C -->|FunctionDef| D["代码块 / Chunk"]
+    C -->|ClassDef| D["代码块 / Chunk"]
+    D --> E["向量数据库 / ChromaDB"]
+    D --> F["增强元数据: 依赖关系/父节点"]
 ```
 
 ## 安装指南
