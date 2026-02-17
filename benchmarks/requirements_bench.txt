@@ -3,6 +3,6 @@ matplotlib
 google-generativeai
 python-dotenv
 llama-index-core
-llama-index-node-parser-code
+llama-index
 tree-sitter
 tree-sitter-python
