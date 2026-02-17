@@ -33,6 +33,16 @@
 
 > **注**：以上数据通过 `benchmarks/scripts/full_stack_stats.py` 自动化脚本计算得出。
 
+## 技术优势总结 (Technical Deep-Dive)
+为什么 **PyAST-RAG** 是构建 Python 代码助手（Code Agent）的更好选择？
+
+1.  **装饰器粘性 (Decorator Persistence)**:
+    在我们的测试中，LangChain 方案会有 **31.67%** 的概率将 `@property` 或 `@retry` 等装饰器与函数体切散。**PyAST-RAG 保证 0% 丢失率**，确保 AI 始终理解函数的元属性。
+2.  **自动作用域追踪 (Context-Aware Scope)**:
+    每一个被检索到的函数片段，都通过 `parent_name` 元数据自动关联其所属的类。相比之下，传统的切分方案会产生大量“孤儿代码块”，导致 AI 无法确定该方法是属于哪个类或模块。
+3.  **语义单元提取 (Atomic Semantics)**:
+    我们不通过字符长度来“赌”代码完整性。通过 AST 提取的每一个 Chunk 都是一个完整的、可解析的语法单元。这不仅消除了语法错误，更极大提升了代码 Embedding 的质量。
+
 ## 核心架构
 ```mermaid
 graph TD
