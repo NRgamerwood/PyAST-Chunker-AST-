@@ -17,16 +17,21 @@
 2. **精准上下文检索**: 基于 ChromaDB 的元数据增强检索，精准定位函数定义。
 3. **完全本地化闭环**: 从解析到向量存储完全本地运行，保护代码隐私（仅生成阶段调用 LLM API）。
 
-## 技术指标 (Benchmark)
-针对 `requests` 库全量代码 (36 个 Python 文件) 的对比测试结果显示，**PyAST-RAG** 在保持代码语义完整性方面具有压倒性优势：
+## 技术指标 (Full-Stack Benchmark)
+我们在 `requests` 库的核心模块（如 `sessions.py`, `models.py`）上进行了全栈对比测试，结果如下：
 
-| 评估维度 | LangChain (Baseline) | **PyAST-RAG (本项目)** |
-| :--- | :--- | :--- |
-| **语法错误率 (Invalid Python)** | 57.47% | **0.00%** |
-| **函数体切断率 (Fragmentation)** | 51.60% | **0.00%** |
-| **平均元数据字段数** | 1.0 (仅文本) | **5.7 (结构化)** |
+| 评估维度 | Baseline 1 (Simple) | Baseline 2 (LC Pro) | Baseline 3 (LlamaIndex) | **PyAST-RAG (本项目)** |
+| :--- | :--- | :--- | :--- | :--- |
+| **语法合法率 (Syntax %)** | 24.9% | 38.6% | 29.8% | **100.0%** |
+| **函数完整度 (Func Intg %)** | 32.0% | 54.5% | 40.3% | **100.0%** |
+| **元数据密度 (Fields/Chunk)** | 1.0 | 1.0 | 1.0 | **5.6** |
 
-> **注**：Baseline 使用 LangChain 的 `RecursiveCharacterTextSplitter.from_language(Language.PYTHON)`，并设置 `chunk_size=800`。以上数据通过 `benchmarks/scripts/quantitative_stats.py` 自动化脚本计算得出。
+### 核心发现：
+1.  **工业级局限**: 即便使用 LlamaIndex 基于 Tree-sitter 的工业级切分方案，在面对 Python 复杂的 Docstrings 和装饰器时，仍有近 70% 的 Chunk 无法通过语法解析。
+2.  **绝对精确**: **PyAST-RAG** 确保了 100% 的代码块具备完整的语法结构，消除了 RAG 检索中的“代码截断”噩梦。
+3.  **结构化赋能**: 每个 Chunk 携带平均 5.6 个元数据标签，为 RAG 提供了极佳的语义上下文。
+
+> **注**：以上数据通过 `benchmarks/scripts/full_stack_stats.py` 自动化脚本计算得出。
 
 ## 核心架构
 ```mermaid

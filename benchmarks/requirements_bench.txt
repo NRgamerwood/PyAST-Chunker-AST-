@@ -2,3 +2,7 @@ langchain-text-splitters
 matplotlib
 google-generativeai
 python-dotenv
+llama-index-core
+llama-index-node-parser-code
+tree-sitter
+tree-sitter-python
