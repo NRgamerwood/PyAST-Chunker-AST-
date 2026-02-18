@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Jane-xiaoer/x-fetcher`
 - 🏆 `3stoneBrother/code-audit`
 - 🏆 `bobek-balinek/claude-lamp`
-- 🏆 `AM1403x/financial-agent-india`
 - 🏆 `Ibrahim-3d/conductor-orchestrator-superpowers`
+- 🏆 `AM1403x/financial-agent-india`
