@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `Jane-xiaoer/x-fetcher`
 - 🏆 `3stoneBrother/code-audit`
-- 🏆 `AM1403x/financial-agent-india`
 - 🏆 `bobek-balinek/claude-lamp`
+- 🏆 `AM1403x/financial-agent-india`
 - 🏆 `Ibrahim-3d/conductor-orchestrator-superpowers`
