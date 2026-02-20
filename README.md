@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Clad3815/gpt-play-pokemon-firered`
 - 🏆 `pizzabits/secrets-snitcher`
 - 🏆 `agno-agi/investment-team`
-- 🏆 `Superfleys/agent-spec`
 - 🏆 `umputun/cc-thingz`
+- 🏆 `Superfleys/agent-spec`
