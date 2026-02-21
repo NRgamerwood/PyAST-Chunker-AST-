@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `RomeroLab/alphafast`
 - 🏆 `Yoahoug/kiro-stack`
+- 🏆 `RomeroLab/alphafast`
 - 🏆 `Zierax/Grafana-Final-Scanner`
 - 🏆 `ncoevoet/facet`
 - 🏆 `HackingLZ/maps_scanner`
