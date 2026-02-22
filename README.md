@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Infini-AI-Lab/MonarchRT`
-- 🏆 `ncoevoet/facet`
 - 🏆 `AR-FORUM/hodoscope`
+- 🏆 `ncoevoet/facet`
+- 🏆 `Infini-AI-Lab/MonarchRT`
 - 🏆 `wz0919/AnchorWeave`
 - 🏆 `Dryxio/auto-re-agent`
