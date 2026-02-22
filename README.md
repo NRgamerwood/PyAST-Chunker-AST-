@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `assemsabry/shade`
 - 🏆 `HackingLZ/maps_scanner`
-- 🏆 `wz0919/AnchorWeave`
 - 🏆 `Infini-AI-Lab/MonarchRT`
+- 🏆 `wz0919/AnchorWeave`
 - 🏆 `ncoevoet/facet`
