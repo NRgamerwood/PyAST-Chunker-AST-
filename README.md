@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `binhanchen25-arch/agent_plus`
+- 🏆 `AR-FORUM/hodoscope`
 - 🏆 `Yoahoug/kiro-stack`
 - 🏆 `agno-agi/investment-team`
 - 🏆 `E-Conners-Lab/NetworkOps_Platform`
