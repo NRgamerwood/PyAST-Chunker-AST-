@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `obsTR/BioVerify`
 - 🏆 `HackingLZ/maps_scanner`
-- 🏆 `datavorous/challenges`
-- 🏆 `ToRvaLDz/monique`
 - 🏆 `yingyingxia666/AgentWereWolf`
+- 🏆 `ToRvaLDz/monique`
 - 🏆 `zhiyuzi/Signex`
