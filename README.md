@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `yingyingxia666/AgentWereWolf`
 - 🏆 `Yoahoug/kiro-stack`
-- 🏆 `m-obeid/Muse`
 - 🏆 `vatslaaeytoygag/CVE-2025-59287`
+- 🏆 `m-obeid/Muse`
 - 🏆 `AR-FORUM/hodoscope`
