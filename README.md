@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `pulsemindcover/Polymarket-AI-Trading-Bot`
-- 🏆 `yingyingxia666/AgentWereWolf`
 - 🏆 `vatslaaeytoygag/CVE-2025-59287`
+- 🏆 `yingyingxia666/AgentWereWolf`
 - 🏆 `Yoahoug/kiro-stack`
 - 🏆 `m-obeid/Muse`
