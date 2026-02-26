@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `Zyora-Dev/zse`
 - 🏆 `confluence-labs/arc-agi-2`
-- 🏆 `robertoshimizu/session-graph`
 - 🏆 `mnemox-ai/idea-reality-mcp`
+- 🏆 `robertoshimizu/session-graph`
 - 🏆 `joi-lab/ouroboros-desktop`
