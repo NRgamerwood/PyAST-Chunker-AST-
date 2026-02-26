@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `confluence-labs/arc-agi-2`
 - 🏆 `Zyora-Dev/zse`
+- 🏆 `confluence-labs/arc-agi-2`
 - 🏆 `robertoshimizu/session-graph`
 - 🏆 `mnemox-ai/idea-reality-mcp`
 - 🏆 `joi-lab/ouroboros-desktop`
