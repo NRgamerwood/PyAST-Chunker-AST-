@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `datavorous/challenges`
 - 🏆 `6551Team/opentwitter-mcp`
+- 🏆 `datavorous/challenges`
 - 🏆 `rushindrasinha/youtube-shorts-pipeline`
 - 🏆 `panyiwei-home/Freedeck`
 - 🏆 `confluence-labs/arc-agi-2`
