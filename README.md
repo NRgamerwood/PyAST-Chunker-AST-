@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `innoqiu/newsieai`
 - 🏆 `guidelabs/steerling`
 - 🏆 `HackingDave/nightwire`
-- 🏆 `jina-ai/jina-grep-cli`
 - 🏆 `dievus/ADPulse`
+- 🏆 `jina-ai/jina-grep-cli`
