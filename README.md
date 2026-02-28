@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `innoqiu/newsieai`
 - 🏆 `guidelabs/steerling`
-- 🏆 `HackingDave/nightwire`
 - 🏆 `dievus/ADPulse`
+- 🏆 `HackingDave/nightwire`
 - 🏆 `jina-ai/jina-grep-cli`
