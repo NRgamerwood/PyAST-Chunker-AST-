@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `qlabs-eng/slowrun`
 - 🏆 `0xMH/fichero-printer`
-- 🏆 `charonviz/text2geo`
 - 🏆 `androsovm/clorch`
+- 🏆 `charonviz/text2geo`
 - 🏆 `nj19257/FastSkills`
