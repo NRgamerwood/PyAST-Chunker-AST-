@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `LeoYeAI/openclaw-master-skills`
+- 🏆 `qlabs-eng/slowrun`
 - 🏆 `Thinklanceai/agentkeeper`
 - 🏆 `charonviz/text2geo`
 - 🏆 `D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill`
