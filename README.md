@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `4R7I5T/CL1_LLM_Encoder`
-- 🏆 `marketingjuliancongdanh79-pixel/skill-generator`
 - 🏆 `chixi4/Qwen3.5-9B-ToolHub`
+- 🏆 `marketingjuliancongdanh79-pixel/skill-generator`
 - 🏆 `armadasvc/armada`
 - 🏆 `deltatrader01/Polymarket-Trading-Bot`
