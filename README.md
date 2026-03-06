@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `marketingjuliancongdanh79-pixel/skill-generator`
 - 🏆 `FireRedTeam/FireRed-OCR`
-- 🏆 `zubair-trabzada/ai-marketing-claude`
 - 🏆 `4R7I5T/CL1_LLM_Encoder`
 - 🏆 `armadasvc/armada`
 - 🏆 `UnrealXu/UnrealEngine5-Skills`
