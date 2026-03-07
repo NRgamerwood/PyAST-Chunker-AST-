@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Norman-bury/articlewriting-skill`
 - 🏆 `matteyeux/coruna`
 - 🏆 `juliye2025/evil-read-arxiv`
-- 🏆 `armadasvc/armada`
 - 🏆 `autoclaw-cc/xiaohongshu-skills`
+- 🏆 `armadasvc/armada`
