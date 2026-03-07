@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `Norman-bury/articlewriting-skill`
 - 🏆 `matteyeux/coruna`
-- 🏆 `juliye2025/evil-read-arxiv`
 - 🏆 `autoclaw-cc/xiaohongshu-skills`
+- 🏆 `juliye2025/evil-read-arxiv`
 - 🏆 `armadasvc/armada`
