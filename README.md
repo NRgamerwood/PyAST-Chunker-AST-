@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Norman-bury/articlewriting-skill`
 - 🏆 `marketingjuliancongdanh79-pixel/skill-generator`
 - 🏆 `vibeforge1111/dexscreener-cli-mcp-tool`
-- 🏆 `matteyeux/coruna`
 - 🏆 `uluckyXH/OpenMOSS`
+- 🏆 `matteyeux/coruna`
