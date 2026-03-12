@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `manuelschipper/nah`
 - 🏆 `OpusDelta/opusdelta`
+- 🏆 `Comfy-Org/Nvidia_RTX_Nodes_ComfyUI`
 - 🏆 `PIPIKAI/auto-painter-win`
 - 🏆 `liuwei283/RealWonder`
-- 🏆 `Comfy-Org/Nvidia_RTX_Nodes_ComfyUI`
