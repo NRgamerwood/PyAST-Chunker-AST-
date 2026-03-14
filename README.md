@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `OpusDelta/opusdelta`
 - 🏆 `longnghiemduc6-art/ob12api`
 - 🏆 `securo-finance/securo`
-- 🏆 `Sibyl-Research-Team/sibyl-research-system`
 - 🏆 `shuyicc/MathLens`
+- 🏆 `Sibyl-Research-Team/sibyl-research-system`
