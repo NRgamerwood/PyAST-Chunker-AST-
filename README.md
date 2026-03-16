@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `LeDat98/NexusRAG`
+- 🏆 `drivelineresearch/autoresearch-claude-code`
 - 🏆 `LocoreMind/LocoTrainer`
-- 🏆 `RuizeLyu/paper-dl`
-- 🏆 `THU-SI/Spatial-TTT`
 - 🏆 `czl9707/build-your-own-openclaw`
+- 🏆 `THU-SI/Spatial-TTT`
