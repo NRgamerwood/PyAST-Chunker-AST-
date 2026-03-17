@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `SKYFIRE5836/Slay-the-Spire-2-Drawing`
 - 🏆 `Cedriccmh/claude-code-skill-scrapling`
-- 🏆 `XMihura/Kanvas`
 - 🏆 `matteorigodanza/cryto-trading-ai-assistant`
+- 🏆 `XMihura/Kanvas`
 - 🏆 `sz8887031-bot/kol-claw`
