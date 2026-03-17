@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `drivelineresearch/autoresearch-claude-code`
+- 🏆 `LocoreMind/LocoTrainer`
 - 🏆 `xiaomi-research/dmail`
 - 🏆 `THU-SI/Spatial-TTT`
 - 🏆 `sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation`
