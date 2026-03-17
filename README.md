@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `matteorigodanza/cryto-trading-ai-assistant`
 - 🏆 `SKYFIRE5836/Slay-the-Spire-2-Drawing`
 - 🏆 `Cedriccmh/claude-code-skill-scrapling`
-- 🏆 `XMihura/Kanvas`
 - 🏆 `Jiangzy520/DreamleStockRadar`
+- 🏆 `XMihura/Kanvas`
