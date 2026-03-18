@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Jiangzy520/DreamleStockRadar`
 - 🏆 `THU-SI/Spatial-TTT`
 - 🏆 `aibuildai/AI-Build-AI`
-- 🏆 `pedronauck/skills`
 - 🏆 `RuizeLyu/paper-dl`
+- 🏆 `pedronauck/skills`
