@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `aibuildai/AI-Build-AI`
 - 🏆 `PlamenTSV/plamen`
-- 🏆 `pedronauck/skills`
 - 🏆 `rohitg00/ai-engineering-from-scratch`
+- 🏆 `pedronauck/skills`
 - 🏆 `Jiangzy520/DreamleStockRadar`
